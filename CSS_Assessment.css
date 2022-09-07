@@ -34,10 +34,17 @@ input{
     color:darkblue;
     background-color:lightblue;
 }
-::placeholder{
+/* .ww::placeholder{
     color:darkblue;
     background-color:gray;
+    font-family: 'myFont', Aldrich,cursive;
+} */
+.ww{
+    font-family: Aldrich, cursive;
 }
+/* :placeholder-shown{
+    font-family:Aldrich,cursive;
+} */
 
 
 /*Task # 6
@@ -61,3 +68,4 @@ a{
 Finally, set all the font to be Aldrich font (or any other Google Font) */
 /* https://fonts.google.com/?selection.family=Aldrich */
 /* look up for ythe body tag */
+
